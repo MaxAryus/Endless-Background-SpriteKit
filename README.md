@@ -5,10 +5,6 @@ Hier ist meine lösung, wie sich dies vermeiden lässt.
 
 ## 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Endless Backgroundscrolling in Spritekit
 
-
-
-
-extension GameScene {
     
     func setupBackground() {
         
@@ -35,5 +31,4 @@ extension GameScene {
     }
     
     
-}
 
