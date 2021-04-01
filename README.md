@@ -1,14 +1,12 @@
-# EndlessBackgroundSpriteKit
+# 🇩🇪 Unendliche Hintergrund Wiederholung in SpriteKit
 
-//
-//  ground generation.swift
-//  Jump
-//
-//  Created by Max Aryus on 23.07.20.
-//  Copyright © 2020 Max Aryus. All rights reserved.
-//
+Das problem bei den Tutorials, welche ich gefunden habe ist, dass nach einer gewissen Zeit eine Lücke zwischen zwei Hintergrundbildern entsteht.
+Hier ist meine lösung, wie sich dies vermeiden lässt.
 
-import SpriteKit
+## 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Endless Backgroundscrolling in Spritekit
+
+
+
 
 extension GameScene {
     
