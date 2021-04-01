@@ -1,10 +1,15 @@
-# 🇩🇪 Unendliche Hintergrund Wiederholung in SpriteKit
+# 🇩🇪 Unendliche hintergrund Wiederholung in SpriteKit
 
 Das problem bei den Tutorials, welche ich gefunden habe ist, dass nach einer gewissen Zeit eine Lücke zwischen zwei Hintergrundbildern entsteht.
 Hier ist meine lösung, wie sich dies vermeiden lässt.
 
 ## 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Endless Backgroundscrolling in Spritekit
 
+The problem with the tutorials I have found is that after a certain time there is a gap between two background images.
+Here is my solution how to avoid this.
+
+### The code:
+    <p>Written in Swift with the framework</p>
     
     func setupBackground() {
         
